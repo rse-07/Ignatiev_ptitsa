@@ -11,6 +11,13 @@
 // способности  
 // вверх
 
+
+// 2-числа clk
+// 3г-числа- dio
+// 4-кнопка
+// 5-звук
+// 6-матрица
+
 #include "TM1637Display.h"
 TM1637Display display(3, 2);  // CLC, DIO
 int c;
